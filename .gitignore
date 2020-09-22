@@ -1,0 +1,11 @@
+i
+.ipynb_checkpoints/*
+wq
+ls -a
+git rm -r --cached
+git add.
+git commit -m "remove cached files"
+git remote add upstream https://github.com/NIU-Data-Science/applications
+git pull upstream master
+git commit -a -m "fix merge conflicts"
+
