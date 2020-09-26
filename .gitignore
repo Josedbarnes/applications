@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 i
 .ipynb_checkpoints/*
 wq
@@ -9,3 +10,8 @@ git remote add upstream https://github.com/NIU-Data-Science/applications
 git pull upstream master
 git commit -a -m "fix merge conflicts"
 
+=======
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+Session 5/results/*
+>>>>>>> e8a0fdd3465b2d05e2c1e753306d3a8727bf7d38
